@@ -6,4 +6,5 @@
 
 point 1 menjelaskan tentang bagaimana git
 
+### point 2 
 
