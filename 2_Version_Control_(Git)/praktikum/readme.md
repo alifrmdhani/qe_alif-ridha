@@ -4,6 +4,6 @@
 
 ### Poin 1
 
-point 1 menjelaskan tentang
+point 1 menjelaskan tentang bagaimana git
 
 
