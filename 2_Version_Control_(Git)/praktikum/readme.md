@@ -1,16 +1,11 @@
 # (2) Version Control Git
 
 ## Materi 2:
+ 
+### Point 1
 
-### Poin 1
+point 1 menjelaskan tentang bagaimana git
 
-Poin 1 menjelaskan tentang... 
+### point 2 
 
-### Poin 2
-
-Poin 2 menjelaskan tentang... 
-
-### Poin 3
-
-Poin 3 menjelaskan tentang... 
-
+pint 2 menejlaskan

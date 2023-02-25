@@ -1,16 +1,23 @@
-# (2) Version Control Git
+# Penjelasan dari folder screenshots
 
-## Materi 2:
+## ss_1 dan ss_2 merupakan folder dan isi folder yang telah di push ke repository
 
-### Poin 1
+## ss_3 adalah tampilan ketika sudah membuat branch baru 
 
-Poin 1 menjelaskan tentang... 
+## ss_4 tampilan dari pull request
 
-### Poin 2
+## ss_5 tampilan setelah pull request dan menggabungkan 2 file jadi 1 
 
-Poin 2 menjelaskan tentang... 
+## ss_6 tampilan pull request dan merged berhasil
 
-### Poin 3
+## ss_7 tampilan dari trunkbase 
 
-Poin 3 menjelaskan tentang... 
+## ss_8 tampilan adanya konflik
 
+## ss_9 tampilan sebelum resolve 
+
+## ss_10 tampilan sesudah resolve
+
+## ss_11 tampilan sesudah resolve dan bisa melakukan merge pull request
+
+## ss_12 tampilan dari code review 
