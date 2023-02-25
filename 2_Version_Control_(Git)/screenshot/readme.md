@@ -1,15 +1,5 @@
-# (2) Version Control Git
+# Penjelasan dari folder screenshots
 
-## Materi 2:
-
-### Poin 1
-
-Poin 1 menjelaskan tentang ss 1
-
-### Poin 2
-
-Poin 2 menjelaskan tentang ss 2
-
-### Poin 3
-
-Poin 3 menjelaskan tentang ss 3
+## ss1-ss3 berisi penjelasan soal prioritas 1
+## ss4-ss5 berisi penjelasan soal prioritas 2
+## ss6-10 berisi penjelasan soal ekplorasi 
